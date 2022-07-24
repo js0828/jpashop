@@ -13,12 +13,7 @@ spring:
 #        show_sql: true
         format_sql: true
 
-<<<<<<< HEAD
-logging.level:
-  org.hibernate.SQL: debug
-#  org.hibernate.type: trace
-=======
   logging.level:
     org.hibernate.SQL: debug
 #      org.hibernate.type: trace
->>>>>>> 414214e4a43e87ed2f6d2ff3b4bfa72a2af7079f
+
